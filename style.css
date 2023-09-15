@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(178, 234, 248);
+    color: rgb(224, 68, 16);
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    font-family: 'Playfair Display', serif;
+    color:rgb(0, 115, 255)
+}
+
+#camera{
+    width: 350px;
+    height:300px;
+    border: 2px dashed black;
+}
+
+#result_object_name, #result_object_accuracy{
+    color:rgb(156, 6, 249);
+}
+
+#result{
+    width: 350px;
+    height:300px;
+    border: 2px solid black;
+}
